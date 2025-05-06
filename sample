@@ -1,0 +1,156 @@
+
+<!-- to create a form with input fields for name, email, and message. -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>welcome to kidzee school</h1>
+
+  <h2>build a foundation for lifetime learning</h2>
+  <h1>start your own kidzee now</h1>
+  <img
+    src="https://media.istockphoto.com/id/1148232211/photo/schoolgirl-throwing-paper-airplane-in-classroom.jpg?s=2048x2048&w=is&k=20&c=VS95VTCJzKUBX4rYCpsCpc-csu2LmTgLh2aXK2NwQwA="
+    alt="loading">
+  <table border=" 15pxl">
+    <tr>
+      <th>2000+ centers</th>
+      <th>750+ cities</th>
+      <th>20 years of legacy</th>
+      <th>1.4 million of students</th>
+    </tr>
+
+  </table>
+
+  <h1>about us</h1>
+  <h1>Kidzee Preschool</h1>
+  <pr>Kidzee Preschool is leading chain with preschool situated in India and Nepal backed by Zee Learn Ltd. With more
+    than two decades of experience in the preschool industry, Kidzee has nurtured more than 1.4 million children
+    throughout India. Being one of the largest preschools in India. Kidzee has 2000+ centres in 750+ cities in India and
+    Nepal.</pr>
+
+
+
+  <h1>why kidzee</h1>
+  <h2>kidzee advantage</h2>
+  <h2>indias largest preschool chain</h2>
+  <pr>Kidzee is India’s largest award-winning preschool chain with an expertise spanning 20 years, over 2,000 centres in
+    750+ cities in India enriching over 1.4 millions young minds</pr>
+  <div>
+    <h2>proven buisness model</h2>
+    <pr>A high-return, low-cost business model enables you to shape young minds of tomorrow today while ensuring
+      stability and opportunity to scale your franchise</pr>
+  </div>
+  <div>
+    <h2>market leader with a strong brand recall & brand lineage of 20 years</h2>
+    <pre>Kidzee preschools have consistently raised the standards for early education by meticulous effort that has stood the test of time for over 20 years</pre>
+  </div>
+  <div>
+    <h2>most awarded preschool in the category</h2>
+    <pre>Kidzee with over two decades of expertise has won several awards such as India's Most Trusted Preschool: TRA's Brand Trust Report, 2022 and more</pre>
+  </div>
+  <DIV>
+    <H3>
+      Focus on what is right for the child.
+      Safety and Security is a priority.
+      Integrated pentemind Curriculum
+      I care and ece trained facilitators
+      an innovative pegagogy aligned to NEP 2020 designed to help nuture collaborative team player and breakthrough
+      leaders
+      kidzee App
+
+    </H3>
+
+  </DIV>
+  <h1>Learn about faculty director</h1>
+  <table border="1pxl">
+    <tr>
+      <th>SL no</th>
+      <th>Name </th>
+      <th>Image</th>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>Ravi shastry</td>
+      <td><img
+          src="https://images.unsplash.com/photo-1577896851231-70ef18881754?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          alt=""></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Suraj</td>
+      <td><img
+          src="https://plus.unsplash.com/premium_photo-1691873264230-0ff72300185a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8"
+          alt=""></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Vivek</td>
+      <td><img
+          src="https://media.istockphoto.com/id/1307598873/photo/happy-indian-business-man-teacher-talking-to-web-cam-on-conference-video-call-smiling.jpg?s=612x612&w=0&k=20&c=kbrCiZ_uCXGv5ZQsdMUpEku8gRTQCiSSxay_pRSDCvw="
+          alt=""></td>
+    </tr>
+  </table>
+  <h1>awards and recognization</h1>
+  <div>
+    <img
+      src="https://media.istockphoto.com/id/487706376/photo/little-girl-student-with-badge.jpg?s=2048x2048&w=is&k=20&c=E1afY_BlP72ddRjDlGMnIvOKqHYqoS0VIEpsaRcEN0w="
+      alt="loading">
+
+    <ol>
+      <H1>2022</H1>
+      <h2>India's most recognized
+        Preschool Franchise</h2>
+      <li>India's Most Trusted Preschool: TRA's Brand Trust Report, 2022</li>
+      <li>Ranked amongst the Top 100 Franchise Opportunities, 2022: Franchise India</li>
+    </ol>
+    <ol>
+      <h1>2021</h1>
+      <li>India's Most Trusted Preschool: TRA's Brand Trust Report, 2021</li>
+    </ol>
+    <ol>
+      <h1>2020</h1>
+      <li>Leading Preschool Chain: 17th World Education Summit 2020</li>
+      <li>National Early Child Preschool chain of the year: 10th Annual Indian Education Award ,2020</li>
+    </ol>
+  </div>
+  <div>
+    <h1>Kidzee Preschool
+      Admissions Open for 2025-26.
+      Enquire Now</h1>
+    <ol>
+      <li>Fill the School Admission Inquiry Form on the Website</li>
+      <li>We will invite you to the nearest Kidzee preschool</li>
+      <li>Visit the School for Campus Tour</li>
+      <li>Join the Kidzee Family</li>
+    </ol>
+
+  </div>
+  <form action="home.html">
+    <h1>please fill the details if you are interested</h1>
+
+    first name:<input required type="text" placeholder="enter your first name" name="" id=""> <br>
+    last name:<input required type="text" placeholder="enter your last name" name="" id=""> <br>
+    email :<input required type="text" placeholder="enter your mailid eg:abc@gmail.com" name="" id=""> <br>
+    mobile number:<input type="text" placeholder="enter your mobile number" value="" id=""> <br>
+    pincode:<input required type="text" placeholder="enter pincode" value="" id=""> <br>
+    country:<input required type="text" placeholder="enter your country name" name="" id=""><br>
+    state:<input required type="text" placeholder="enter  your state name" name="" id=""><br>
+    city:<input required type="text" placeholder="enter your city name" name="" id=""> <br>
+    location:<input type="text" placeholder="enter your location " name="" id=""><br>
+
+    <input type="checkbox"> I state that I am ready with a min investment of INR 15-16 lakhs* & a min space of 2000-3000
+    sqft, and have read, understood and accepted your Privacy Policy and the Terms <br>
+    <button>submit</button>
+    <button>reset</button>
+
+
+  </form>
+</body>
+
+</html>
